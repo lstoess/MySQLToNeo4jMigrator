@@ -1,0 +1,5 @@
+2024-04-22 11:33:21.760 +02:00 [INF] Starte Datenmigration von MySQL zu Neo4j.
+2024-04-22 11:33:22.075 +02:00 [INF] Verbindung zu MySQL hergestellt.
+2024-04-22 11:33:22.350 +02:00 [INF] Verbindung zu Neo4j hergestellt.
+2024-04-22 11:33:22.819 +02:00 [INF] Materialfluesse erfolgreich in Neo4j gespeichert.
+2024-04-22 11:33:22.821 +02:00 [INF] Datenmigration erfolgreich abgeschlossen.
